@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeAPI.BE", "PokeAPI.BE\PokeAPI.BE.csproj", "{F10EE8E6-389D-42B6-ACB0-9A349A2CFF15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeAPI.Models", "PokeAPI.Models\PokeAPI.Models.csproj", "{05F46148-4EF1-4BA4-9248-F3975B177B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F10EE8E6-389D-42B6-ACB0-9A349A2CFF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10EE8E6-389D-42B6-ACB0-9A349A2CFF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10EE8E6-389D-42B6-ACB0-9A349A2CFF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10EE8E6-389D-42B6-ACB0-9A349A2CFF15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F46148-4EF1-4BA4-9248-F3975B177B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F46148-4EF1-4BA4-9248-F3975B177B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F46148-4EF1-4BA4-9248-F3975B177B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F46148-4EF1-4BA4-9248-F3975B177B67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45EABD8F-9A53-431B-A2BC-22742D206C47}
+	EndGlobalSection
+EndGlobal
